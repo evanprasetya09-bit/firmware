@@ -54,6 +54,7 @@ static const uint8_t SCK = 18;
 #define NRF24_MISO_PIN SPI_MISO_PIN
 
 #define FP 1
+#undef FP
 #define FM 2
 #define FG 3
 
